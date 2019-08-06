@@ -1,2 +1,2 @@
 # LearnGit
-Learning Git
+Desc: Learning Git 
